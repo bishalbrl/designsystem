@@ -138,7 +138,7 @@ h4 {
 .tin {
   border: 1px solid black;
   padding: 50px;
-  width: 40%;
+  max-width: 40%;
 }
 
 .tin:hover {
